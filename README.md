@@ -4,6 +4,6 @@ Code Instruction:
 
 Run the following command:
 
-> python train.py --dataset CoraFull
+***python train.py --dataset CoraFull***
 
 
